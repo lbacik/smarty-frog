@@ -1,0 +1,1 @@
+Smarty Frog = PHP + Smarty.
